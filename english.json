@@ -1,0 +1,261 @@
+[
+    {
+        "char": "A",
+        "similarities": [
+            "Q",
+            "W",
+            "S",
+            "Z"
+        ]
+    },
+    {
+        "char": "B",
+        "similarities": [
+            "G",
+            "H",
+            "N",
+            "V"
+        ]
+    },
+    {
+        "char": "C",
+        "similarities": [
+            "D",
+            "F",
+            "V",
+            "X"
+        ]
+    },
+    {
+        "char": "D",
+        "similarities": [
+            "E",
+            "R",
+            "F",
+            "C",
+            "X",
+            "S"
+        ]
+    },
+    {
+        "char": "E",
+        "similarities": [
+            "3",
+            "4",
+            "R",
+            "D",
+            "S",
+            "W"
+        ]
+    },
+    {
+        "char": "F",
+        "similarities": [
+            "R",
+            "T",
+            "G",
+            "V",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "char": "G",
+        "similarities": [
+            "T",
+            "Y",
+            "H",
+            "B",
+            "V",
+            "F"
+        ]
+    },
+    {
+        "char": "H",
+        "similarities": [
+            "Y",
+            "U",
+            "J",
+            "N",
+            "B",
+            "G"
+        ]
+    },
+    {
+        "char": "I",
+        "similarities": [
+            "8",
+            "9",
+            "O",
+            "K",
+            "J",
+            "U"
+        ]
+    },
+    {
+        "char": "J",
+        "similarities": [
+            "U",
+            "I",
+            "K",
+            "M",
+            "N",
+            "H"
+        ]
+    },
+    {
+        "char": "K",
+        "similarities": [
+            "I",
+            "O",
+            "L",
+            "M",
+            "J"
+        ]
+    },
+    {
+        "char": "L",
+        "similarities": [
+            "O",
+            "P",
+            "K"
+        ]
+    },
+    {
+        "char": "M",
+        "similarities": [
+            "J",
+            "K",
+            "N"
+        ]
+    },
+    {
+        "char": "N",
+        "similarities": [
+            "H",
+            "J",
+            "M",
+            "B"
+        ]
+    },
+    {
+        "char": "O",
+        "similarities": [
+            "9",
+            "0",
+            "P",
+            "L",
+            "K",
+            "I"
+        ]
+    },
+    {
+        "char": "P",
+        "similarities": [
+            "0",
+            "L",
+            "O"
+        ]
+    },
+    {
+        "char": "Q",
+        "similarities": [
+            "1",
+            "2",
+            "W",
+            "A"
+        ]
+    },
+    {
+        "char": "R",
+        "similarities": [
+            "4",
+            "5",
+            "T",
+            "F",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "char": "S",
+        "similarities": [
+            "W",
+            "E",
+            "D",
+            "X",
+            "Z",
+            "A"
+        ]
+    },
+    {
+        "char": "T",
+        "similarities": [
+            "5",
+            "6",
+            "Y",
+            "G",
+            "F",
+            "R"
+        ]
+    },
+    {
+        "char": "U",
+        "similarities": [
+            "8",
+            "9",
+            "I",
+            "J",
+            "H",
+            "Y"
+        ]
+    },
+    {
+        "char": "V",
+        "similarities": [
+            "F",
+            "G",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "char": "W",
+        "similarities": [
+            "2",
+            "3",
+            "E",
+            "S",
+            "A",
+            "Q"
+        ]
+    },
+    {
+        "char": "X",
+        "similarities": [
+            "S",
+            "D",
+            "C",
+            "Z"
+        ]
+    },
+    {
+        "char": "Y",
+        "similarities": [
+            "6",
+            "7",
+            "U",
+            "H",
+            "G",
+            "T"
+        ]
+    },
+    {
+        "char": "Z",
+        "similarities": [
+            "A",
+            "S",
+            "X"
+        ]
+    }
+]
